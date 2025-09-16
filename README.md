@@ -38,8 +38,6 @@ A community made list of awesome projects built for the [Code with Kiro Hackatho
 - **[StudyZen - Mindful Learning](https://dev.to/kirodotdev/studyzen-built-using-kiro-2p7i)** - Mindfulness-focused study platform combining productivity tools with wellness
   features for balanced learning.
 - **[BlueandCosmos](https://www.blueandcosmos.com/index.html)** – An educational portal for space exploration that helps students learn, connect, and collaborate through real-time insights, mentorship, and community features. Built with Kiro for vibe-coding, spec-driven development, hooks, and steering.
-- **[StellarRec](https://stellarrec.netlify.app/)** – An AI-powered platform that helps students apply smarter and lets recommenders send one recommendation to multiple universities with a single upload. Built with Kiro for backend automation and dashboard improvements. 
-
 
 ## Wildcard / Freestyle
 
