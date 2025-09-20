@@ -40,6 +40,8 @@ A community made list of awesome projects built for the [Code with Kiro Hackatho
 - **[StudyZen - Mindful Learning](https://dev.to/kirodotdev/studyzen-built-using-kiro-2p7i)** - Mindfulness-focused study platform combining productivity tools with wellness
   features for balanced learning.
 - **[BlueandCosmos](https://www.blueandcosmos.com/index.html)** – An educational portal for space exploration that helps students learn, connect, and collaborate through real-time insights, mentorship, and community features. Built with Kiro for vibe-coding, spec-driven development, hooks, and steering.
+- **[Why Should I Care (WSIC)](https://whyshouldicare.vercel.app/)** – An innovative ed-tech + social media platform that helps users discover interesting topics. Using advanced multi AI agent architecture and intelligent search, the platform creates comprehensive, interactive learning modules on-demand, making even the most obscure subjects accessible and engaging. [📹 Demo](https://www.youtube.com/watch?v=c6r_l3-A8m4) | [💻 Code](https://github.com/thisisindrajit/wsic)
+
 
 ## Wildcard / Freestyle
 
