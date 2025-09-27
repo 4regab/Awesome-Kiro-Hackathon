@@ -21,6 +21,7 @@ A community made list of awesome projects built for the [Code with Kiro Hackatho
 - **[Code Animator](https://animate-code-pi.vercel.app/)** - A web app that converts code snippets into animated videos, built entirely with Kiro. **[🎥 Demo](https://www.youtube.com/watch?v=NJbMWKCa7eY) | [💻 Code](https://github.com/JohnVersus/animate_code/)**
 - **[HackerDen](https://hackerden.netlify.app)** - Your hackathon team's HQ to stop you from juggling 15 tabs simultaneously**[Demo](https://www.youtube.com/watch?v=NJbMWKCa7e) | [Code](https://github.com/ictinus0222/hackerDen)**
 - **The Human Funnel** - Automating the messy part of recruitment. From 10k applicants to top 100, fast and reliably. [💻 Code](https://github.com/the-human-funnel/the-human-funnel) | [Demo](https://www.youtube.com/watch?v=ai0u4cg4MTA)
+- **LiftFire Gym Tracker App** - Gamified fitness PWA that transforms workouts into an RPG-like experience with XP, achievements, streaks and social competitions, making fitness addictive through friends, leaderboards and personalized challenges. [💻 Code](https://github.com/devblac/sport-tracker) | [Demo](https://vimeo.com/1118840277)
 
 
 ## Games & Entertainment
